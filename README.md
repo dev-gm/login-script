@@ -1,5 +1,5 @@
 # login-script
-A simple login script that I wrote in bash. Uses a file in your home called `.loginmanrc` as config.
+A simple login script that I wrote in bash. Uses a file in your home called `.loginmanrc` as config. You must have python3 and bash installed.
 I wrote this after getting tired of trying to get 'ly' to work on Gentoo with openrc and sway/wayland.
 
 NOTE: The following probably won't work for most people, and is probably not best practice. But, TBH it is mostly just so I don't forget.
