@@ -13,7 +13,7 @@ NOTE: The following probably won't work for most people, and is probably not bes
 
 `c2:2345:respawn:/sbin/agetty --skip-login --login-program /usr/local/bin/login-loginmanrc 38400 tty2 linux`
 
-- Add a `.loginmanrc` file in your home that sources `.bash_profile`, cd's into your home, run window manager, etc.
+- Add a `.loginmanrc` file in your home that sources `.bash_profile`, cd's into your home, runs window manager, etc.
 
 ### For swaywm users (such as myself)
 - Add this to your `.bash_profile`, which you should source from your `.loginmanrc` file:
